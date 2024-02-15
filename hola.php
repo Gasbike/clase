@@ -1,1 +1,4 @@
-echo"Hola mundo";
+< rama2
+<?php
+	echo"Hola!";
+?>
